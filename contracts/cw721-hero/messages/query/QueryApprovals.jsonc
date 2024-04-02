@@ -1,0 +1,6 @@
+{
+    "approvals": {
+        "token_id": "H-01",
+        "include_expired": false // optional
+    }
+}

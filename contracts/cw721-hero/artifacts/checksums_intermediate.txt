@@ -1,0 +1,1 @@
+e4f1a392efd08309ed559ffb1ce1fa5ad1040d0d75c214d1ca5ecb898b70fbcd  /target/wasm32-unknown-unknown/release/cw721_hero.wasm

@@ -1,0 +1,23 @@
+{
+  "mint": {
+    "token_id": "H-03", // required
+    "owner": "inj1wd6xqdgvv6nm94r5a3xu7y7tqssp0652r8su0k", // required
+    "token_uri": "https://abc.xyz", // optional
+    "extension": { // optional
+      "image": "https://abc.xyz/image.png", // optional
+      "image_data": "base64.......", // optional
+      "external_url": "https://abc.xyz", // optional
+      "description": "NFT Description", // optional
+      "name": "NFT Name", // optional
+      "attributes": [ // optional
+        { "trait_type": "attack", "value": "20" },
+        { "trait_type": "def", "value": "50" },
+        { "trait_type": "speed", "value": "25" },
+        { "trait_type": "hp", "value": "500" }
+      ],
+      "background_color": "#000000", // optional
+      "animation_url": "https://abc.xyz/animation.gif", // optional
+      "youtube_url": "https://www.youtube.com/watch?v=abc" // optional
+    }
+  }
+}

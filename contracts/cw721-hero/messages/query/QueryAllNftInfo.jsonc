@@ -1,0 +1,7 @@
+{
+    "all_nft_info": {
+        "token_id": "H-01",
+        "include_expired": false // optional
+    }
+
+}

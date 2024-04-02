@@ -1,0 +1,7 @@
+{
+    "approval":{
+        "token_id":"H-01",
+        "spender":"inj1wd6xqdgvv6nm94r5a3xu7y7tqssp0652r8su0k",
+        "include_expired":false // optional
+    }
+}

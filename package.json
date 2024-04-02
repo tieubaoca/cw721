@@ -1,0 +1,19 @@
+{
+  "name": "hero",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.4.3"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node ./dist/src/index.js",
+    "dev": "tsc && node ./dist/src/index.js"
+  },
+  "dependencies": {
+    "@cosmjs/amino": "^0.32.3",
+    "@cosmjs/cosmwasm-stargate": "^0.32.3",
+    "ethers": "^6.11.1"
+  }
+}

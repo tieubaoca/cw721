@@ -1,0 +1,9 @@
+{
+    "approve": {
+        "spender": "inj1wd6xqdgvv6nm94r5a3xu7y7tqssp0652r8su0k",
+        "token_id": "H-01",
+        "expires": {
+            "never": {} // alternative: "at_height": "123456", "at_time": "2021-12-31T23:59:59Z"
+        } // optional
+    }
+}

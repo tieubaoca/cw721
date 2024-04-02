@@ -1,0 +1,4 @@
+dist
+node_modules
+contracts/cw721-hero/target
+yarn.lock

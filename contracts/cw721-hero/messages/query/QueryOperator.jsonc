@@ -1,0 +1,7 @@
+{
+    "operator": {
+        "owner": "inj1wd6xqdgvv6nm94r5a3xu7y7tqssp0652r8su0k", // required
+        "operator": "inj1xh928v0zwy54nv3d9m9splk0nu9jfnugg8pmkk", // required
+        "include_expired": false // optional
+    }
+}
