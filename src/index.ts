@@ -33,6 +33,13 @@ async function main() {
       tokenId: nftId,
     })
   );
+
+  const res = await client.queryContractSmart(contractAddress, {
+    owner_of: {
+      token_id: nftId,
+    },
+  });
+  console.log(`Query owner by cosmos client: ${JSON.stringify(res)}`);
 }
 
 main().catch((error) => {
