@@ -45,7 +45,6 @@ pub mod entry {
     use msg::InstantiateMsg;
     use state::MINTERS_STORAGE;
     use execute::mint;
-
     use cosmwasm_std::{entry_point, to_json_binary, Addr};
     use cosmwasm_std::{Binary, Deps, DepsMut, Env, MessageInfo, Response, StdResult};
 
