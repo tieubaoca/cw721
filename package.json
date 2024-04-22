@@ -9,7 +9,8 @@
   "scripts": {
     "build": "tsc",
     "start": "node ./dist/src/index.js",
-    "dev": "tsc && node ./dist/src/index.js"
+    "queryNftByOwner": "tsc && node ./dist/src/queryNftByOwner.js",
+    "queryOwner": "tsc && node ./dist/src/queryOwner.js"
   },
   "dependencies": {
     "@cosmjs/amino": "^0.32.3",
